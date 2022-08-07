@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working at [Banco Nacion](https://www.bna.com.ar/Personas).
 
-- 🔭 I’m currently learning about **Software architecture and Machine Learning**.
+- 🔭 I’m currently learning about **Python | Software architecture and Machine Learning**.
 
 - 📫 Reach me at **facundo.girardi@gmail.com**.
 
