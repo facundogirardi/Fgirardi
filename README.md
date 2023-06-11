@@ -13,7 +13,7 @@
 
 💻 12 cuántos años de experiencia en el proceso de desarrollo de software
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... innovador... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... arquitecto... coordinador... innovador... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **facundo.girardi@gmail.com**
 
