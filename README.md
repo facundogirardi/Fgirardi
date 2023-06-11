@@ -1,31 +1,68 @@
-<h1 align="center">Hi 👋, I'm Facundo!</h1>
+<h1 align="center">Hola 👋  soy Facundo Girardi✨ </h1>
 
-- 🚀 I’m currently working at [Banco Nacion](https://www.bna.com.ar/Personas).
+<p align="left">
+  <a href="https://linkedin.com/in/facundo-girardi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="facundogirardi"/></a>
+<a href = "mailto:facundo.girardi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@facundogirardi"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-- 🔭 I’m currently learning about **Python | Software architecture and Machine Learning**.
+<p align="left">
+🎓 Licenciado en Informatica
 
-- 📫 Reach me at **facundo.girardi@gmail.com**.
+💻 12 cuántos años de experiencia en el proceso de desarrollo de software
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35" >
+📝 roles en el ámbito: desarrollador... líder... arquitecto... innovador... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **facundo.girardi@gmail.com**
+
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,cpp,java,py,react,r,css,html,js,nodejs,nginx,nestjs,mysql,redis,mongodb,jquery,git,firebase,jenkins,express,git,github,docker,kubernetes,materialui,postman,eclipse,vscode,powershell,bash,linux,&perline=12" />
   </a>
-
-  <a href="https://es.reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="35"/> 
-  </a> 
-  
-  <a href="https://nodejs.org" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35"/> 
-  </a> 
-  
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="35"/> 
-  </a>
-
-  <a href="https://www.mongodb.com/es/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="35"/> 
-  </a>
-
 </p>
+
+<!------------------------->
+  </p>
+</div>
+<br>
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=facundogirardi&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=facundogirardi&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=facundogirardi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=facundogirardi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>        
+<!--- stats (end) -->
